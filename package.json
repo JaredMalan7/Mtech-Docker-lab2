@@ -1,0 +1,12 @@
+{
+  "name": "myapp2",
+  "version": "1.0.0",
+  "description": "This repository contains the Dockerfile and instructions to build and run the Docker image for my Node.js website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Jare Malan",
+  "license": "ISC"
+}
